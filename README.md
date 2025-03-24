@@ -25,5 +25,5 @@ A simple Flutter weather app that **fetches real-time weather data**, displays a
 ### Steps to Run
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/weather_app.git
+   git clone https://github.com/yashpanchal9/weather_app/tree/master
    cd weather_app
